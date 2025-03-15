@@ -2,12 +2,23 @@
 
 ## Team Name:
 The memo
+## Team Members and Contributions:
+- **Sameer Sapkota**: 
+  - Developed the core functionality of the system.
+  - Implemented the **booking** function, **save seat data** function, and other essential components inside the **main function**.
+  - Ensured the logic for booking, seat status, and fare calculation works seamlessly.
+  
+- **Shailesh Chaudhary**: 
+  - Focused on the **seat availability** function.
+  - Implemented the logic to display available seats and show passenger names for the booked seats.
 
-## Teammates:
-- Sameer Sapkota  
-- Shailesh Chaudhary  
-- Sushant Thapa  
-- Manish Pandey
+- **Sushant Thapa**: 
+  - Developed the **cancel booking** function.
+  - Worked on removing bookings from the system and updating the seat availability after cancellation.
+
+- **Manish Pandey**: 
+  - Worked on the **load seat data** function.
+  - Developed the logic to load previous booking data from a file (`travel.txt`) and populate the seating chart with existing bookings.
 
 ## Platform Used:
 Windows
